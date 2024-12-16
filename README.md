@@ -6,20 +6,20 @@ BTEC Level 3 Extended Diploma in Computing, New College Swindon <br />
 BSc (Hons) Computer Games Programming, University of Gloucestershire <br />
 
 ### Work Experience
-Jam Coding
+Jam Coding<br />
 
 ### Temporary Work
-Code Camp UK
+Code Camp UK<br />
 
 ### My Projects in Unity
-Dijkstra's algorithm Space Navigation
+Dijkstra's algorithm Space Navigation<br />
 
 
 ### My Projects in UnrealEngine
-3D Boids in C++
+3D Boids in C++<br />
 
-Main Menu in C++
+Main Menu in C++<br />
 
-Character Creator(Blueprints)
+Character Creator(Blueprints)<br />
 
 
