@@ -21,18 +21,17 @@
 
 # My Projects
 ## Unity
-### Dijkstra's algorithm StarMap Navigation
-[GitHubRepo](https://github.com/Dylsonator/ct4101-a2-star-map-navigation-simulation-DylanFliski-main)
+### Dijkstra's algorithm StarMap Navigation (C#)
+[GitHubRepo](https://github.com/Dylsonator/ct4101-a2-star-map-navigation-simulation-DylanFliski-main) <br />
+For an Assignment I was tasked with implementing a star-map navigation style simulation within the Unity Game Engine, utilizing my own pathfinding and movement methods. This simulation employed the mathematical techniques I developed over the course of the module. I did not make use of Unity's built-in navigation or lerp systems. (Graded 64 (B)) <br />
+![StarMapNavigation](/Assets/IMG/StarmapNavigationDJikstras.png) <br />
 
-For an Assignment I was tasked with implementing a star-map navigation style simulation within the Unity Game Engine, utilizing my own pathfinding and movement methods. This simulation employed the mathematical techniques I developed over the course of the module. I did not make use of Unity's built-in navigation or lerp systems. (Graded 64 (B))
-
-![StarMapNavigation](/Assets/IMG/StarmapNavigationDJikstras.png)
 
 ## Unreal Engine
-### 3D Boids in C++
+### 3D Boids (C++)
 
-### Main Menu in C++
+### Main Menu/MultiPlayer (Blueprints)
 
-### Character Creator(Blueprints)
+### Character Creator (Blueprints)
 
 
