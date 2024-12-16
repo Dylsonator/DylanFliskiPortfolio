@@ -23,7 +23,9 @@
 ## Unity
 ### Dijkstra's algorithm StarMap Navigation
 [GitHubRepo](https://github.com/Dylsonator/ct4101-a2-star-map-navigation-simulation-DylanFliski-main)
+
 I was tasked with implementing a star-map navigation style simulation within the Unity Game Engine, utilizing my own pathfinding and movement methods. This simulation employed the mathematical techniques I developed over the course of the module. I did not make use of Unity's built-in navigation or lerp systems.
+
 ![StarMapNavigation](/Assets/IMG/StarmapNavigationDJikstras.png)
 
 ## Unreal Engine
