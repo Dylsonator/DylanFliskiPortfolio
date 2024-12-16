@@ -3,4 +3,4 @@ logo: /Assets/IMG/Headshot.jpg
 
 description: my current work up to 16/12/24
 show_downloads: false
-theme: Minima
+theme: jekyll-theme-minimal
