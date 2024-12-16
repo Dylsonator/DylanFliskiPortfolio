@@ -6,20 +6,20 @@
 - BSc (Hons) Computer Games Programming, University of Gloucestershire
 
 ### Work Experience
-Jam Coding<br />
+- Jam Coding
 
 ### Temporary Work
-Code Camp UK<br />
+- Code Camp UK
 
 ### My Projects in Unity
-Dijkstra's algorithm Space Navigation<br />
+- Dijkstra's algorithm Space Navigation
 
 
 ### My Projects in UnrealEngine
-3D Boids in C++<br />
+- 3D Boids in C++
 
-Main Menu in C++<br />
+- Main Menu in C++
 
-Character Creator(Blueprints)<br />
+- Character Creator(Blueprints)
 
 
