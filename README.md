@@ -39,7 +39,8 @@ For an assignment was to provide practical experience in creating multiplayer ga
 
 ### Character Creator (Blueprints)
 [GitHubRepo(Build Unavailable)](https://github.com/Dylsonator/ct4102-character-creator-DylanFliski-main)<br />
+[Demonstration Video](https://youtu.be/kfbytZMiNyw)<br />
 For an assignment I was tasked with building a "Character Creator" mechanic, commonly found in racing games, MMOs, and RPGs. I was not required to produce art or art assets and was encouraged to use publicly available packs in my submission, with appropriate academic referencing. This assessment aimed to explore my understanding of Unreal Engine 5 and the C++ programming language. (Graded 63 (2:1)) <br />
-[Demonstration Video]()<br />
+
 ![MainMenuImage](/Assets/IMG/CharacterCreatorIMG.png)
 
