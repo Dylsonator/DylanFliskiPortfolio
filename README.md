@@ -19,7 +19,6 @@
 - Accommodating for different learning speeds and assisting where needed
 - Ensuring children’s well-being at all times, following safeguarding policies and procedures
 
-##Projects
 ### My Projects in Unity
 - Dijkstra's algorithm Space Navigation
 
