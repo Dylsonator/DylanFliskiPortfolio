@@ -21,8 +21,9 @@
 
 # My Projects
 ## Unity
-### Dijkstra's algorithm Space Navigation
-
+### Dijkstra's algorithm StarMap Navigation
+I was tasked with implementing a star-map navigation style simulation within the Unity Game Engine, utilizing my own pathfinding and movement methods. This simulation employed the mathematical techniques I developed over the course of the module. I did not make use of Unity's built-in navigation or lerp systems.
+![StarMapNavigation](/Assets/IMG/StarmapNavigationDJikstras.png)
 
 ## Unreal Engine
 ### 3D Boids in C++
