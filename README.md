@@ -32,7 +32,7 @@ For an Assignment I was tasked with implementing a star-map navigation style sim
 ### 3D Boids (C++)
 [GitHubRepo(Build Unvailable)](https://github.com/Dylsonator/ct5108-assignment-2-boids-DylanFliski)<br />
 [Demonstration Video](https://youtu.be/hzgmNK61kY0) <br />
-I was tasked with creating a 3D Boid Simulation using basic steering and flocking behavior AI. This simulation was to be created using the C++ programming language, utilizing Unreal Engine 5. Alongside my submission, I was required to submit a code report using a provided template.
+For an Assignment i was tasked with creating a 3D Boid Simulation using basic steering and flocking behavior AI. This simulation was to be created using the C++ programming language, utilizing Unreal Engine 5. Alongside my submission, I was required to submit a code report using a provided template. (Awaiting Grade)
 
 ![MainMenuImage](/Assets/IMG/Boids.png)
 
