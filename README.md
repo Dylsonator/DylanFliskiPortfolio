@@ -30,6 +30,7 @@ For an Assignment I was tasked with implementing a star-map navigation style sim
 
 ## Unreal Engine
 ### 3D Boids (C++)
+![MainMenuImage](/Assets/IMG/Boids.png)
 
 ### Main Menu/MultiPlayer (Blueprints)
 [GitHubRepo(Build Unavailable)](https://github.com/Dylsonator/ct5108-assignment-1-lobby-DylanFliski-main)<br />
