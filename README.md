@@ -35,7 +35,7 @@ For an Assignment I was tasked with implementing a star-map navigation style sim
 ### Main Menu/MultiPlayer (Blueprints)
 [GitHubRepo(Build Unavailable)](https://github.com/Dylsonator/ct5108-assignment-1-lobby-DylanFliski-main)<br />
 [Demonstration Video](https://youtu.be/sBhJQO_rXos)<br />
-For an assignment was to provide practical experience in creating multiplayer game prototypes using C++ in Unreal Engine 5. I was tasked with creating a Main Menu system that led into a multiplayer game, complete with UI animations and sound effects. The gameplay elements did not need to be feature-complete and could contain only a small demo scene, but the menu loop and UI elements needed to be fully feature-complete. This was to be created using C++, utilizing Unreal Engine 5.(Graded 72 (First)) <br />
+For an assignment I was tasked with creating creating multiplayer game prototypes using C++ in Unreal Engine 5. I was tasked with creating a Main Menu system that led into a multiplayer game, complete with UI animations and sound effects. The gameplay elements did not need to be feature-complete and could contain only a small demo scene, but the menu loop and UI elements needed to be fully feature-complete. This was to be created using C++, utilizing Unreal Engine 5.(Graded 72 (First)) <br />
 ![MainMenuImage](/Assets/IMG/MainMenuPC.png) <br />
 
 ### Character Creator (Blueprints)
